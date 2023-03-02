@@ -1,0 +1,7 @@
+{
+  "database": "chinhnv",
+  "host": "10.56.10.78",
+  "user": "chinhnv",
+  "password": "123456",
+  "port": 5432
+}
